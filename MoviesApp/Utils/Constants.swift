@@ -9,6 +9,6 @@
 import Foundation
 
 struct Constants {
-    static let API_KEY = "YOURAPIKEY" // OMDBAPI
-    static let RonaAPI_KEY = "ca4d8a58" 
+    static let API_KEY = "ca4d8a58" // OMDBAPI
+    static let RonsAPI_KEY = "ca4d8a58"
 }
