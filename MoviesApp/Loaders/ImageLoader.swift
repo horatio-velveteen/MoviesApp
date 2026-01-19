@@ -7,7 +7,7 @@
 //
 
 import Foundation
-
+// Load an image with URL
 class ImageLoader: ObservableObject {
     
     @Published var downloadedData: Data?

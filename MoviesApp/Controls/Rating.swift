@@ -7,7 +7,7 @@
 //
 
 import SwiftUI
-
+// custom control to use ratings
 struct Rating: View {
     
     @Binding var rating: Int?
